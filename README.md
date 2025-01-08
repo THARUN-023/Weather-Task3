@@ -1,7 +1,7 @@
 # codtech-TASK-2
-* Name: Tharun kumar
+* Name: V THARUN
 * Company: CODTECH IT SOLUTIONS
-* ID: CT08END
+* ID:  CT08ENC
 * Domain: Full stack Web Development
 * Durations:dec 17 2024 to jan 17 2025
 
