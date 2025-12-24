@@ -1,4 +1,4 @@
-# codtech-TASK-3
+# Weather-App
 * Name: V THARUN
 * Domain: Full stack Web Development
 
